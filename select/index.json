@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "メモリア",
+  "base_artist": "Aira",
+  "createdAt": "2026-02-28T08:12:41.865151Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メモリア",
+      "artist": "Aira",
+      "has_synced": false,
+      "path": "select/pl_01_メモリア_Aira.txt"
+    }
+  ]
+}
